@@ -1,7 +1,7 @@
 import streamlit as st
 import math
 import numpy as np
-import sympy as sys
+import sympy as sp
 import matplotlib.pyplot as plt
 
 # Judul Aplikasi
